@@ -1,0 +1,14 @@
+.wrapper {
+	color: white;
+	width: 300px;
+	padding: 10px;
+	backdrop-filter: blur(10px);
+}
+
+
+@media (max-width: 575.98px) {
+	.wrapper {
+		width: 100%;
+		padding: 20px;
+	}
+}
