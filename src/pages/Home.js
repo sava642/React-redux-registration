@@ -15,7 +15,7 @@ export default function Home() {
 	return (
 		<div style={styles.container}>
 			<h1 style={styles.title}>
-				Привет, кумец, дзырь как сделал...
+				Home page
 			</h1>
 		</div>
 	);
