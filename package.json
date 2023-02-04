@@ -1,8 +1,8 @@
 {
-  "name": "react-homework-template",
+  "name": "react-redux",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sava642.github.io/redux-registration/",
+  "homepage": "https://github.com/sava642/React-redux-registration",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.1",
     "@testing-library/jest-dom": "^5.16.3",
